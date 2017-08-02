@@ -1312,6 +1312,24 @@
     "repo": "https://github.com/purescript/purescript-validation.git",
     "version": "v3.1.0"
   },
+  "var": {
+    "dependencies": [
+      "bifunctors"
+      ,"contravariant"
+      ,"control"
+      ,"eff"
+      ,"either"
+      ,"foldable-traversable"
+      ,"invariant"
+      ,"maybe"
+      ,"monoid"
+      ,"newtype"
+      ,"prelude"
+      ,"tuples"
+    ],
+    "repo": "https://github.com/zudov/purescript-var.git",
+    "version": "v2.0.0"
+  },
   "variant": {
     "dependencies": [
       "distributive",
