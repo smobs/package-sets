@@ -1247,7 +1247,7 @@
       "websocket-simple"
     ],
     "repo": "https://github.com/kejace/purescript-subscriber.git",
-    "version": "v3.0.0"
+    "version": "master"
   },
   "symbols": {
     "dependencies": [
